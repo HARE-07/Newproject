@@ -1,0 +1,34 @@
+.container{
+    text-align: center;
+}
+p{
+    font: 1em sans-serif;
+    font-size: 3rem;
+    color: #00ADB5;
+}
+
+h1{
+    font-size: 4rem;
+    font-weight: bolder;
+    color: goldenrod;
+}
+
+
+
+
+
+.beautiful{
+    width: 500px;
+    height: 250px;
+    border-radius:5%;
+    border: 3px solid gold;
+}
+
+body{
+    background-color: #393E46;
+}
+.btn{
+    width: 40%;
+    height: 40%;
+    background-color: #00ADB5;
+}
